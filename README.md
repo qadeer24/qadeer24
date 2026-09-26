@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Qadeer
 
-<!--
-**qadeer24/qadeer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WordPress Developer & Website Designer | Full-Stack Developer (Laravel, React) | Founder of Stream Design Studio**
 
-Here are some ideas to get you started:
+I design and build fast, modern websites that turn visitors into leads and sales. Top Rated Plus freelancer on Upwork with 100% Job Success, 600+ projects delivered and 6,500+ hours of client work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hire me on Upwork:** [Muhammad Q. - WordPress Developer & Website Designer](https://www.upwork.com/freelancers/~01d3d07c1391c252fe)
+
+## What I do
+
+- WordPress website design and development (Elementor, custom themes, custom plugins)
+- Website redesigns for service businesses, agencies and e-commerce stores
+- Figma / UI design to pixel-perfect WordPress
+- Landing pages and sales pages built to convert
+- WooCommerce and Shopify stores
+- Full-stack web apps and portals with Laravel, React and MySQL
+- Logo and brand identity design
+
+## Featured projects
+
+- **[Boomers Insurance Services](https://boomersinsuranceservices.com/)** - Medicare agency website plus a custom agent/admin portal: lead management, agent and agency hierarchies, role-based permissions, commissions engine, CRM sync, Twilio SMS and click-to-call. *Laravel, React, MySQL, Docker*
+- **[Pace for Boomers](https://paceforboomers.com/)** - WordPress website with a custom plugin powering a county + ZIP code PACE program lookup. *WordPress, PHP*
+- **[Collaborative Health Insurance Solutions](https://collaborativemedicare.com/)** - Modern Medicare agency website with appointment booking and English/Spanish support.
+
+## Tech stack
+
+WordPress · Elementor · WooCommerce · PHP · Laravel · React · JavaScript · MySQL · HTML5 · CSS3 · Figma · Shopify · Docker
+
+## Work with me
+
+- Upwork: https://www.upwork.com/freelancers/~01d3d07c1391c252fe
+- Studio: https://streamdesignstudio.com
+- Location: Hyderabad, Pakistan (working with clients worldwide)
